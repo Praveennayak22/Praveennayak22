@@ -133,19 +133,7 @@ Character-level text generator built from scratch using a multilayer perceptron.
 
 Machine Learning · Natural Language Processing · Computer Vision · Databases · Mathematical Foundations of AI · Intro to Data Science · Probability & Statistics · Software Tools for AI · Computing
 
----
 
-## GitHub stats
-
-<div align="center">
-
-![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveennayak22&show_icons=true&hide_border=true&theme=default&hide=contribs)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveennayak22&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
 
 <div align="center">
 
